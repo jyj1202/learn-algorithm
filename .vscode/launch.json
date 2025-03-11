@@ -15,14 +15,5 @@
       "smartStep": true,
       "console": "integratedTerminal"
     },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Launch Program",
-      "skipFiles": [
-        "<node_internals>/**"
-      ],
-      "program": "${workspaceFolder}\\src\\casual\\vortex-array.js"
-    }
   ]
 }
